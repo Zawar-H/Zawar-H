@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Zawar-H
+- 👋 Hi, I’m Zawar
 - 👀 I’m interested in Software Developmnt
 - 🌱 I’m currently learning how to program
 - 💞️ I’m looking to collaborate on projects I can learn from
