@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Zawar
-- 👀 I’m interested in Software Developmnt
+- 👀 I’m interested in Software Development
 - 🌱 I’m currently studying as an IT student specializing in software development
 - 💞️ I’m looking to collaborate on projects I can learn from
 - 📫 How to reach me, e-mail: zawar.haider@torontomu.ca
